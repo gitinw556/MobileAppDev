@@ -16,15 +16,15 @@
 ##ฐานข้อมูล
 ####1.เก็บข้อมูลบัญชีผู้ใช้งาน
 
-[![2.png](https://i.postimg.cc/50Bygc0D/2.png)](https://postimg.cc/ZBqJYM6L)
+[![ru1.png](https://i.postimg.cc/ZqWPpYP8/ru1.png)](https://postimg.cc/v1d6dsNT)
 
 ####2.เก็บข้อมูลห้องพูดคุยกับผู้ใช้งานแต่ละคน
 
-[![3.png](https://i.postimg.cc/5N70nS49/3.png)](https://postimg.cc/fJdDbXS1)
+[![ru2.png](https://i.postimg.cc/8kmvFrQ8/ru2.png)](https://postimg.cc/t77JwJ4D)
 
 ####3.เก็บประวัติการพูดคุย
 
-[![4.png](https://i.postimg.cc/jjNSqVzC/4.png)](https://postimg.cc/5H4VpRKM)
+[![ru3.png](https://i.postimg.cc/y8t3qm9R/ru3.png)](https://postimg.cc/4YvxVhW4)
 
 
 ###เริ่มต้นการใช้งาน
