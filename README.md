@@ -3,7 +3,7 @@
 ##ตัวอย่างโมบายแอปพลิเคชัน
 ###Link Youtube :  https://youtu.be/cin4fqgOPSg
 
-[![1.png](https://i.postimg.cc/fWYm2Fpz/1.png)](https://postimg.cc/t7Cs7r9w)
+[![ru0.png](https://i.postimg.cc/CMrF6FbB/ru0.png)](https://postimg.cc/Hj5Dr1Zd)
 
 ##หน้าโมบายแอปพลิเคชัน
 ###1.หน้าล็อกอิน เป็นหน้าแรกของโมบายแอปพลิเคชัน ต้องทำการสมัครสมาชิกก่อน
